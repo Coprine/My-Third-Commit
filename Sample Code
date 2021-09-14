@@ -2,6 +2,6 @@
   <head>
   </head>
     <body>
-      <h1>Github Rocks!</h1>
+      <h1 style="color:#aa0000">Github Rocks!</h1>
     </body>
 </html>
